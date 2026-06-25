@@ -1,8 +1,8 @@
-const notas = [8, 7, 9, 5]; // 5 é a nota errada
+const notas = [8, 7, 9, 5];
 
-notas.pop(); // remove a última nota
+notas.pop();
 
-notas.push(10); // adiciona a nota correta
+notas.push(10);
 
 let soma = 0;
 
